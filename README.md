@@ -1,4 +1,4 @@
-CC:Tweaked Autorun Datapack
+#CC:Tweaked Autorun Datapack
 
 Installation:
 1. Download this datapack (the `.zip` file).
