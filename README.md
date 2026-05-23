@@ -1,4 +1,5 @@
 # CC:Tweaked Autorun Datapack
+[CC:Tweaked](https://modrinth.com/mod/cc-tweaked/versions)
 
 Installation:
 1. Download this datapack (the `.zip` file).
