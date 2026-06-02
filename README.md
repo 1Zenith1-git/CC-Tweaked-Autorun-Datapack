@@ -19,5 +19,5 @@ That’s it – your script will start automatically every time.
 
 Example use cases:
 Keep your server always active.
-Keep your miners alwas active.
+Keep your miners always active.
 Keep your password‑protected redstone door always active.
