@@ -1,7 +1,7 @@
 # CC:Tweaked Autorun Datapack
-[CC:Tweaked](https://modrinth.com/mod/cc-tweaked/versions)
+Makes every ComputerCraft computer automatically run any script ending with _autorun on startup or server reboot.
 
-CC:Tweaked Autorun Datapack - Makes every ComputerCraft computer automatically run any script ending with _autorun on startup or server reboot.
+[CC:Tweaked](https://modrinth.com/mod/cc-tweaked/versions)
 
 ## Installation
 1. Download this datapack (the `.zip` file).
