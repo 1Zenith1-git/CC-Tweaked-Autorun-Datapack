@@ -1,7 +1,7 @@
 # CC:Tweaked Autorun Datapack
 [CC:Tweaked](https://modrinth.com/mod/cc-tweaked/versions)
 
-##Installation
+## Installation
 1. Download this datapack (the `.zip` file).
 2. Put it into the `datapacks` folder of your Minecraft world.
 3. Done. It works on all computers in that world.
